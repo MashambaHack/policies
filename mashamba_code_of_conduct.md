@@ -2,15 +2,15 @@
 
 ## 1. Purpose
 
-A primary goal of the Stumptown Syndicate is to be inclusive to the largest number of participants, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of MashambaHack is to be inclusive to the largest number of participants, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in Stumptown Syndicate activities to help us create safe and positive experiences for everyone.
+We invite all those who participate in MashambaHack activities to help us create safe and positive experiences for everyone.
 
 ## 2. Open Source & Culture Citizenship
 
-A supplemental goal of this Code of Conduct is to increase open source and culture citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+A supplemental goal of this Code of Conduct is to increase uraban agriculture movement (as well open source and culture citizenship) by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
 
@@ -53,13 +53,13 @@ If a community member engages in unacceptable behavior, we may take any action d
 
 ## 6. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify us as soon as possible by emailing conduct@stumptownsyndicate.org. Please read [Reporting Guidelines](reporting_guidelines.md) for details.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify us as soon as possible by emailing concerns@mashamba.co. Please read [Reporting Guidelines](reporting_guidelines.md) for details.
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
 ## 7. Addressing Grievances
 
-Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the Stumptwon Syndicate Board at board@stumptownsyndicate.org with your appeal and the Syndicate board will review the case.
+Only permanent resolutions (such as bans) may be appealed. To appeal a decision of organizers, contact the MashambaHack Leadership Team at hq.hack@mashamba.co with your appeal and the Leadership Team will review the case.
 
 ## 8. Scope
 
@@ -69,18 +69,12 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 9. Contact info
 
-Christie Koehler
-President, Stumptown Syndicate
-christie@stumptownsyndicate.org
+Aton Bridges
+Organizer, MashambaHack
+hq.hack@mashamba.co
 
 ## 10. License and attribution
 
-The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
+The Citizen Code of Conduct is distributed by [MashambaHack](http://hack.mashamba.co) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
-Portions of text dervied from the [Django Code of Conduct](https://www.djangoproject.com/conduct/ and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
-
-_Revision 2.2. Posted 4 February 2016._
-
-_Revision 2.1, proposed June 2014_
-
-_Revision 2.0, adopted by the [Stumptown Syndicate](http://stumptownsyndicate.org) board on 10 January 2013. Posted 17 March 2013._
+This is a fork of the CofC created by [Stumptown Syndicate](http://stumptownsyndicate.org). Portions of text dervied from the [Django Code of Conduct](https://www.djangoproject.com/conduct/ and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
