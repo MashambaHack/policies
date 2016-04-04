@@ -34,7 +34,7 @@ Once the organizers has a complete account of the events they will make a decisi
 * Nothing (if we determine no violation occurred).
 * A private reprimand from the working group to the individual(s) involved.
 * A public reprimand.
-* An imposed vacation (i.e. asking someone to "take a week off" from a chat room).
+* An imposed vacation (i.e. asking someone to "take a week off" from a space).
 * A permanent or temporary ban from some or all MashambaHack spaces (events, meetings, mailing lists, chats, etc.)
 * A request for a public or private apology.
 * A request to engage in mediation and/or an accountability plan.
@@ -47,7 +47,6 @@ Finally, the organizers will make a report on the situation to the Mashamba Lead
 
 ## Appealing
 
-Only permanent resolutions (such as bans) may be appealed. To appeal a decision of MashambaHack organizers, contact Mashamba leadership directly at hq@mashamba.co with your appeal and the Leadership Team will review the case.
+Only permanent resolutions (such as bans) may be appealed. To appeal a decision of local MashambaHack organizers, contact MashambaHack leadership directly at hq.hack@mashamba.co with your appeal and the Leadership Team will review the case.
 
-_Revision 1.0, DRAFT, proposed June 2014_
 _Reporting Guidlines derived from those of the [Django Software Foundation](https://www.djangoproject.com/conduct/reporting/)._
