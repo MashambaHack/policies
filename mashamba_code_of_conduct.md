@@ -1,8 +1,8 @@
-# Citizen Code of Conduct
+# MashambaHack Code of Conduct
 
 ## 1. Purpose
 
-A primary goal of MashambaHack is to be inclusive to the largest number of participants, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of MashambaHack is to be inclusive to the largest number of participants, with the most varied and diverse backgrounds possible in pursuit of our objective to build a global food system innovation community of practice. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
@@ -77,4 +77,4 @@ hq.hack@mashamba.co
 
 The Citizen Code of Conduct is distributed by [MashambaHack](http://hack.mashamba.co) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
-This is a fork of the CofC created by [Stumptown Syndicate](http://stumptownsyndicate.org). Portions of text dervied from the [Django Code of Conduct](https://www.djangoproject.com/conduct/ and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+This is a fork of the CofC created by [Stumptown Syndicate](http://stumptownsyndicate.org). Portions of text dervied from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
