@@ -69,9 +69,9 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 9. Contact info
 
-Aton Bridges
-Organizer, MashambaHack
-hq.hack@mashamba.co
+Aton Bridges  
+Organizer, MashambaHack  
+hq.hack@mashamba.co  
 
 ## 10. License and attribution
 
